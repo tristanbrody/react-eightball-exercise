@@ -1,0 +1,15 @@
+.EightBall {
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+
+.EightBall:hover {
+	cursor: pointer;
+}
+
+div p {
+	color: white;
+	text-align: center;
+	padding-top: 5rem;
+}
